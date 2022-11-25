@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.106de482.js",
-    "static/js/787.cf9e7c89.chunk.js": "/static/js/787.cf9e7c89.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.72db19ec.css",
+    "main.js": "/static/js/main.d06f2d11.js",
+    "static/media/bellavita.jpg": "/static/media/bellavita.f5acbe904a08abb8e662.jpg",
+    "static/media/betrix24.jpg": "/static/media/betrix24.a6a3b600789ac26253ee.jpg",
+    "static/media/Asos.jpg": "/static/media/Asos.e53770d0c147f06fa34a.jpg",
+    "static/media/sephora.jpg": "/static/media/sephora.55ab08d77720054d7298.jpg",
+    "static/media/Digital.jpg": "/static/media/Digital.e565cfb6d8d01e01bf7e.jpg",
+    "static/media/MyFitnessPal App.JPG": "/static/media/MyFitnessPal App.65aae90b12762c19c431.JPG",
+    "static/media/ayoya.jpg": "/static/media/ayoya.ac83f6182e2dc2fdc425.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.106de482.js.map": "/static/js/main.106de482.js.map",
-    "787.cf9e7c89.chunk.js.map": "/static/js/787.cf9e7c89.chunk.js.map"
+    "main.72db19ec.css.map": "/static/css/main.72db19ec.css.map",
+    "main.d06f2d11.js.map": "/static/js/main.d06f2d11.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.106de482.js"
+    "static/css/main.72db19ec.css",
+    "static/js/main.d06f2d11.js"
   ]
 }
