@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72db19ec.css",
-    "main.js": "/static/js/main.7ab90f7a.js",
+    "main.js": "/static/js/main.4ace0497.js",
     "static/media/bellavita.jpg": "/static/media/bellavita.f5acbe904a08abb8e662.jpg",
     "static/media/betrix24.jpg": "/static/media/betrix24.a6a3b600789ac26253ee.jpg",
     "static/media/Asos.jpg": "/static/media/Asos.e53770d0c147f06fa34a.jpg",
@@ -11,10 +11,10 @@
     "static/media/ayoya.jpg": "/static/media/ayoya.ac83f6182e2dc2fdc425.jpg",
     "index.html": "/index.html",
     "main.72db19ec.css.map": "/static/css/main.72db19ec.css.map",
-    "main.7ab90f7a.js.map": "/static/js/main.7ab90f7a.js.map"
+    "main.4ace0497.js.map": "/static/js/main.4ace0497.js.map"
   },
   "entrypoints": [
     "static/css/main.72db19ec.css",
-    "static/js/main.7ab90f7a.js"
+    "static/js/main.4ace0497.js"
   ]
 }
