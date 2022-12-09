@@ -9,11 +9,10 @@ import FacebookIcon from "@material-ui/icons/Facebook";
 import DescriptionIcon from "@material-ui/icons/Description";
 import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
-import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
 export const About = () => {
   return (
-    <>
+    <div className="about-me">
       <div className="about center">
         <h1 data-aos="fade-right">
           Hi, I am <span className="about__name">Rahul Singh</span>
@@ -29,7 +28,7 @@ export const About = () => {
             href="https://github.com/Srahul2244"
             aria-label="github"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
             className="link link--icon"
           >
             <GitHubIcon />
@@ -37,7 +36,7 @@ export const About = () => {
           <a
             href="mailto:ranafd9984@gmail.com"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
             aria-label="github"
             className="link link--icon"
           >
@@ -46,7 +45,7 @@ export const About = () => {
           <a
             href="tel:+919984744805"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
             aria-label="github"
             className="link link--icon"
           >
@@ -57,7 +56,7 @@ export const About = () => {
             aria-label="github"
             className="link link--icon"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
           >
             <LinkedInIcon />
           </a>
@@ -66,7 +65,7 @@ export const About = () => {
             aria-label="github"
             className="link link--icon"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
           >
             <DescriptionIcon />
           </a>
@@ -75,17 +74,17 @@ export const About = () => {
             aria-label="github"
             className="link link--icon"
             target="_blank"
-            rel="noreferrer"
+            // rel="noreferrer"
           >
             <FacebookIcon />
           </a>
         </div>
       </div>
       <Introduction />
-      <Timeline />
+      {/* <Timeline /> */}
       <section id="#skills">
         <Techstacks />
       </section>
-    </>
+    </div>
   );
 };

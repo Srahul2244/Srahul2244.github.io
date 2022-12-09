@@ -12,9 +12,6 @@ export const Contact = () => {
   return (
     <>
       <div className="section">
-        <h2 className="section__title" data-aos="fade-right">
-          Get in <span className="different">Touch</span>
-        </h2>
         <div className={"contactcontainer " + themename} data-aos="fade-right">
           <a
             href="https://www.linkedin.com/in/rahul-singh-17b20a1b4/"

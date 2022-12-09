@@ -8,7 +8,7 @@ export const Introduction = () => {
 
   return (
     <>
-      <section id="#about">
+      <section id="#about" style={{ boxShadow: "rgba(1, 102, 214, 0.1) 0px 0px 0px 1px" }}>
         <div className="section" data-aos="fade-right">
           <h2 className="section__title">
             About <span className="different">Me</span>

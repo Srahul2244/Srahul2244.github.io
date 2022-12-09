@@ -1,6 +1,12 @@
+/* .about-me{
+  background-color:rgb(5, 5, 19);
+} */
+
 .about {
   flex-direction: column;
   margin-top: 3em;
+ box-shadow:  rgba(3, 102, 214, 0.1) 0px 0px 0px 1px;
+
 }
 .about__name {
   color: var(--clr-primary);

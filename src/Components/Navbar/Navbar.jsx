@@ -88,7 +88,7 @@ export const Navbar = () => {
           aria-label="toggle theme"
           style={{ backgroundColor: "inherit" }}
         >
-          {themename === "dark" ? <WbSunnyRoundedIcon /> : <Brightness2Icon />}
+          {/* {themename === "dark" ? <WbSunnyRoundedIcon /> : <Brightness2Icon />} */}
         </button>
         <button
           type="button"

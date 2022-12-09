@@ -2,6 +2,7 @@ import React from "react";
 import Githubcalendar from "react-github-calendar";
 import { ThemeContext } from "../../Context/theme";
 
+
 export const Github = () => {
   const colourTheme = {
     background: "transparent",
@@ -16,7 +17,7 @@ export const Github = () => {
 
   return (
     <>
-      <div className={"section " + themename} data-aos="fade-right">
+      <div className={"section " + themename} data-aos="fade-right" style={{ backgroundColor: "lightblue", textColor: "#ffffff", boxShadow: "rgba(3, 102, 214, 0.1) 0px 0px 0px 1px" }}>
         <h2 className="section__title different">
           Days I <span className="different"> Code</span>
         </h2>
@@ -28,8 +29,8 @@ export const Github = () => {
           fontSize={16}
         />
 
-        <div style={{ marginTop: "30px" }}>
-          <h2 style={{padding:"30px"}}><i>My GitHub Stats</i></h2>
+        <div style={{ marginTop: "30px" }} >
+          <h2 style={{ padding: "30px" }}><i>My GitHub Stats</i></h2>
           <p display="flex" align="center">
             <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api?username=srahul2244&show_icons=true" width="400" />
             <a href="https://github.com/srahul2244?tab=repositories">

@@ -2,7 +2,15 @@
   display: flex;
   justify-content: space-evenly;
   padding-top: 2em;
+  margin-top:200px;
+  /* border: 1px solid red; */
+  max-width: 1180px;
+  /* margin-left: 00px; */
 }
+.section{
+  /* margin: 240px; */
+}
+
 
 .contactcontainer svg {
   font-size: 3em;
