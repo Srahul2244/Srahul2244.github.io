@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.22ef4d43.css",
+    "main.css": "/static/css/main.49f5cff3.css",
     "main.js": "/static/js/main.a18465b3.js",
     "static/media/bellavita.jpg": "/static/media/bellavita.f5acbe904a08abb8e662.jpg",
     "static/media/betrix24.jpg": "/static/media/betrix24.a6a3b600789ac26253ee.jpg",
@@ -10,11 +10,11 @@
     "static/media/MyFitnessPal App.JPG": "/static/media/MyFitnessPal App.65aae90b12762c19c431.JPG",
     "static/media/ayoya.jpg": "/static/media/ayoya.ac83f6182e2dc2fdc425.jpg",
     "index.html": "/index.html",
-    "main.22ef4d43.css.map": "/static/css/main.22ef4d43.css.map",
+    "main.49f5cff3.css.map": "/static/css/main.49f5cff3.css.map",
     "main.a18465b3.js.map": "/static/js/main.a18465b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.22ef4d43.css",
+    "static/css/main.49f5cff3.css",
     "static/js/main.a18465b3.js"
   ]
 }
